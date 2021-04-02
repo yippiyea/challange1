@@ -7,7 +7,8 @@ body {
      Font-size: 13px;
      font-family: 'Barlow Semi Condensed', sans-serif;
      color:  hsl(0, 0%, 81%);
-     background-color:  hsl(210, 46%, 95%);
+     /* background-color:  hsl(210, 46%, 95%); */
+     background-color:  red;
 }
 
 .container {
